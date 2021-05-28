@@ -61,19 +61,19 @@ public class CelularAgregarFrame extends JFrame implements ActionListener
 
         //Info
         //Info x2
-        jlbId = new JLabel("Id ");
+        jlbId = new JLabel("    Id ");
         jlbId.setFont(font);
 
-        jlblMarca = new JLabel("Marca       ");
+        jlblMarca = new JLabel("    Marca       ");
         jlblMarca.setFont(font);
 
-        jlblModelo = new JLabel("Modelo          ");
+        jlblModelo = new JLabel("   Modelo          ");
         jlblModelo.setFont(font);
 
-        jlblPrecio = new JLabel("Precio");
+        jlblPrecio = new JLabel("   Precio");
         jlblPrecio.setFont(font);
 
-        jlbStock = new JLabel("Precio");
+        jlbStock = new JLabel("     Precio");
         jlbStock.setFont(font);
 
         jlbDescripcion = new JLabel("Descripcion");
